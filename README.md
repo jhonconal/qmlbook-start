@@ -1,2 +1,5 @@
 # qmlbook-start
-qmlbook in chinese, pdf ,src
+```
+·backup from qmlbook-in-chinese project.
+·(qmlbook in chinese, pdf ,src)
+```
